@@ -1,4 +1,4 @@
-require "sentry"
+require "sentry-rails"
 require "alchemy_cms"
 require "alchemy/sentry/engine"
 
