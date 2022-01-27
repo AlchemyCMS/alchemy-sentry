@@ -8,7 +8,7 @@ module Alchemy
       def self.call(exception)
         return if ["development", "test"].include?(Rails.env)
 
-        Sentry.capture_exception(exception)
+        ::Sentry.capture_exception(exception)
       end
     end
   end
