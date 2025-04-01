@@ -9,6 +9,7 @@ module Dummy
     config.active_support.deprecation = :stderr
     config.secret_key_base = "DUMMY_SECRET"
     config.logger = Logger.new(STDOUT)
+    config.active_support.to_time_preserves_timezone = :zone
     config.paths["config/database"] = File.join(config.root, "config", "database.yml")
   end
 end
