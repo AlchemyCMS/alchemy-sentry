@@ -1,5 +1,13 @@
 # Changelog
 
+## [v1.1.0](https://github.com/AlchemyCMS/alchemy-sentry/tree/v1.1.0) (2025-04-01)
+
+[Full Changelog](https://github.com/AlchemyCMS/alchemy-sentry/compare/v1.0.0...v1.1.0)
+
+**Merged pull requests:**
+
+- Allow Alchemy 8.0 [\#4](https://github.com/AlchemyCMS/alchemy-sentry/pull/4) ([tvdeyen](https://github.com/tvdeyen))
+
 ## [v1.0.0](https://github.com/AlchemyCMS/alchemy-sentry/tree/v1.0.0) (2023-09-01)
 
 [Full Changelog](https://github.com/AlchemyCMS/alchemy-sentry/compare/b6eea4594f2ed5018d800ccfaa6be5313852a157...v1.0.0)
