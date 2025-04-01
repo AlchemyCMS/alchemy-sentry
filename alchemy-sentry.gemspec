@@ -19,4 +19,8 @@ Gem::Specification.new do |spec|
   spec.add_dependency "alchemy_cms", ">= 4.6.7", "< 9"
   spec.add_dependency "sentry-ruby", "~> 5.0"
   spec.add_dependency "sentry-rails", "~> 5.0"
+
+  spec.add_development_dependency "github_changelog_generator", "~> 1.16"
+  spec.add_development_dependency "sqlite3", "~> 2.6"
+  spec.add_development_dependency "rspec-rails", "~> 7.1"
 end
