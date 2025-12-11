@@ -1,5 +1,15 @@
 # Changelog
 
+## 2.0.0 (2025-12-11)
+
+## What's Changed
+* test: Opt in active_support.to_time_preserves_timezone by @tvdeyen in https://github.com/AlchemyCMS/alchemy-sentry/pull/5
+* Add CI badge to readme by @tvdeyen in https://github.com/AlchemyCMS/alchemy-sentry/pull/6
+* Add reusable release workflows by @tvdeyen in https://github.com/AlchemyCMS/alchemy-sentry/pull/7
+* Update Sentry to v6 by @tvdeyen in https://github.com/AlchemyCMS/alchemy-sentry/pull/8
+
+
+**Full Changelog**: https://github.com/AlchemyCMS/alchemy-sentry/compare/v1.1.0...v2.0.
 ## [v1.1.0](https://github.com/AlchemyCMS/alchemy-sentry/tree/v1.1.0) (2025-04-01)
 
 [Full Changelog](https://github.com/AlchemyCMS/alchemy-sentry/compare/v1.0.0...v1.1.0)
